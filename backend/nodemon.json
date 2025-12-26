@@ -1,0 +1,26 @@
+{
+    "ignore": [
+        "**/*.test.js",
+        "**/*.spec.js",
+        "node_modules",
+        "uploads",
+        "logs",
+        "*.txt",
+        "*.log",
+        "*.json",
+        "../src/*",
+        "../public/*",
+        "../dist/*"
+    ],
+    "watch": [
+        "server.js",
+        "routes",
+        "controllers",
+        "models",
+        "middleware",
+        "config",
+        "utils",
+        ".env"
+    ],
+    "ext": "js,mjs,json"
+}

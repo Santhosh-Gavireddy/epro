@@ -1,0 +1,23 @@
+[
+  {
+    "_id": "691916e67279e6088a3f1daf",
+    "name": "Santhosh",
+    "email": "santhoshj10419@gmail.com",
+    "role": "admin",
+    "id": "691916e67279e6088a3f1daf"
+  },
+  {
+    "_id": "69340609c9ea39c2b8afae6e",
+    "name": "Admin User",
+    "email": "admin@example.com",
+    "role": "admin",
+    "id": "69340609c9ea39c2b8afae6e"
+  },
+  {
+    "_id": "6939db34a78d10d67b2755c0",
+    "name": "Sanju",
+    "email": "santhoshgavireddy93@gmail.com",
+    "role": "user",
+    "id": "6939db34a78d10d67b2755c0"
+  }
+]
